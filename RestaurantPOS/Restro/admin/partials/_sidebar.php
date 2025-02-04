@@ -15,8 +15,9 @@ while ($admin = $res->fetch_object()) {
         <span class="navbar-toggler-icon"></span>
       </button>
       <!-- Brand -->
-      <a class="navbar-brand pt-0" href="dashboard.php">
-        <img src="assets/img/brand/repos.png" class="navbar-brand-img" alt="...">
+      <a class="navbar-brand pt-0 " href="dashboard.php">
+      <span>RMS</span>
+        <!-- <img src="assets/img/brand/repos.png" class="navbar-brand-img" alt="..."> -->
       </a>
       <!-- User -->
       <ul class="nav align-items-center d-md-none">

@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
-<!-- For more projects: Visit codeastro.com  -->
+<!-- For -->
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Restro POS System</title>
+    <title>Restaurant Management System</title>
 
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
@@ -65,16 +65,16 @@
         }
     </style>
 </head>
-<!-- For more projects: Visit codeastro.com  -->
+<!-- For  -->
 <body>
     <div class="flex-center position-ref full-height">
         <div class="content">
             <div class="title m-b-md">
-                Restaurant POS
+            Restaurant Management System
             </div>
 
             <div class="links">
-			<!-- For more projects: Visit codeastro.com  -->
+			<!-- For   -->
                 <a href="Restro/admin/">Admin Log In</a>
                 <a href="Restro/cashier/">Cashier Log In</a>
                 <a href="Restro/customer">Customer Log In</a>
@@ -82,5 +82,5 @@
         </div>
     </div>
 </body>
-<!-- For more projects: Visit codeastro.com  -->
+<!-- For   -->
 </html>
